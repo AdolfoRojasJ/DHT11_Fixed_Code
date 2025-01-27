@@ -8,8 +8,10 @@ On the [Raspberry Pi Pico examples](https://github.com/raspberrypi/pico-examples
 
 I fixed the code so that the Data arrives complete without corruption.
 
-1. Do the Circuit connection
+1. Do the Circuit connection:
+
+
    ![Schematic](Schematic.png)
-2. Paste the dht11 directory on your pico-examples folder
+2. Paste the dht11 directory on your pico-examples folder.
 3. `make`
 4. Open a serial terminal so you can see the readings.
